@@ -62,9 +62,6 @@ fn main() {
         println!("Duas rolas");
         println!("E uma perdiz em uma pereira");
             
-        //Imprimir letra especifica
-        //Imprimir o que já está na lista
-        //Armazenar a letra especifica na lista
         println!("");
         contador = contador + 1;
     }
