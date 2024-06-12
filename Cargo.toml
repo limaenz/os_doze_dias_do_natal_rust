@@ -1,0 +1,6 @@
+[package]
+name = "os_doze_dias_do_natal"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
